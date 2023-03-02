@@ -269,3 +269,10 @@ section.services .card-wrapper .card p{
   color: var(--ternary);
   line-height: 1.6;
 }
+
+section.services .card-wrapper .card:hover{
+  background: var(--dark);
+}
+section.services .card-wrapper .card:hover h2,section.services .card-wrapper .card:hover p{
+  color: var(--pure);
+}
