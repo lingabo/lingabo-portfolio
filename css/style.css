@@ -282,3 +282,6 @@ section.services .card-wrapper .card:hover{
 section.services .card-wrapper .card:hover h2,section.services .card-wrapper .card:hover p{
   color: var(--pure);
 }
+section.freelancer{
+  text-align: center;
+}
