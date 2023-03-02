@@ -246,6 +246,12 @@ section.services .card-wrapper .card{
   padding: 3rem 2rem ;
   position: relative;
   padding-top: 5rem;
+  transition: all .3s ease;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s ;
+    -ms-transition : all .3s ;
+    -o-transition : all .3s ;
+
 }
 section.services .card-wrapper .card img{
   position : absolute;
